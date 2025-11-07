@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.easybytes'
 version = '0.0.1-SNAPSHOT'
-description = 'Demo project for Spring Boot and Spring Security'
+description = 'springsecsection1 project for Spring Boot and Spring Security'
 
 java {
 	toolchain {
