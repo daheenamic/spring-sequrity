@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ${SPRING_APP_NAME:springsecsection2}
+    name: ${SPRING_APP_NAME:eazybankbackend}
 
 #  security:
 #    user:
